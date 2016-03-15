@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    font-family: Impact, fantasy;
+    color: white;
+    background-color: darkolivegreen;
+}
+
+h3 {
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border: 2px solid black;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+
+td, th {
+    border: 1px solid black;
+}

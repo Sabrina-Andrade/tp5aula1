@@ -23,3 +23,30 @@ table {
 td, th {
     border: 1px solid black;
 }
+
+.formField {
+    display: block;
+    width: 40%;
+    border-radius: 10px;
+    border: 2px solid #bcbcbc;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px;
+}
+
+.formLabel {
+    font-family: Arial, sans-serif;
+}
+
+#form {
+    background-color: lightgray;
+    float: left;
+    width: 50%;
+    height: 400px;
+}
+
+#g1form {
+    background-color: lightsteelblue;
+    float: right;
+    width: 50%;
+    height: 400px;
+}

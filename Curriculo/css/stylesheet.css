@@ -1,0 +1,22 @@
+h1 {
+    color:palevioletred;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-family:cursive;
+    color: hotpink;
+    background-color: gray;
+}
+
+.form {
+    background-color:lightgray;
+    border:1px solid black;
+    float:left;
+    width: 50%;
+    height: 500px;
+}

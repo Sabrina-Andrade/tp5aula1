@@ -1,0 +1,15 @@
+h1 {
+    text-align:left;
+    color: black;
+}
+
+h2 {
+    font-family: fantasy;
+    color: white;
+    background-color:black;
+}
+
+.form {
+    background-color:lightgray;
+    float:center;
+}
